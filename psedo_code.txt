@@ -1,0 +1,1 @@
+this is to write ant and all psedou code please delete after implementing
